@@ -10,6 +10,8 @@
 <h1>This is the first heading before any commit</h1>
 <p> Introduction paragraph</p>
 <h2>Heading modified to first-branch</h2>
+<p>This must be fun</p>
+<h3> This is as a result of 2nd branch</h3>
     
 </body>
 </html>
