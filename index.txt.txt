@@ -12,6 +12,8 @@
 <h2>Heading modified to first-branch</h2>
 <p>This must be fun</p>
 <h3> This is as a result of 2nd branch</h3>
-    
+<h4> Which is your best code formatter extension?</h4>
+<p>prettier code formatter .prettierrc</p>
+
 </body>
 </html>
